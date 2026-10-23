@@ -1,0 +1,41 @@
+{
+2
+"name": "Ranking da Pelada",
+3
+"short_name": "Pelada",
+4
+"start_url": "./",
+5
+"display": "standalone",
+6
+"background_color": "#075985",
+7
+"theme_color": "#075985",
+8
+"orientation": "portrait",
+9
+"icons": [
+10
+{
+11
+"src": "icon-192.png",
+12
+"sizes": "192x192",
+13
+"type": "image/png"
+14
+},
+15
+{
+16
+"src": "icon-512.png",
+17
+"sizes": "512x512",
+18
+"type": "image/png"
+19
+}
+20
+]
+21
+}
